@@ -1,0 +1,13 @@
+
+    @media(max-width:768px){
+      
+        footer .main_case{flex-direction:column;}
+        footer .main_case .box{width:100%;text-align:center;margin-bottom:10px;}
+
+        .sec_arrow_up{right:20px;}
+
+        .sec_1_menu .main_content_text,
+        .sec_1_gallery .main_img_content{flex-direction:column;}
+        .sec_1_gallery .main_img_content .box img{text-align:center;width:100%;}
+
+    }
